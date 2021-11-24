@@ -56,6 +56,12 @@ input[type=button] {
 	width: 70px;
 }
 
+input[type=submit] {
+	cursor: pointer;
+	border-radius: 10px;
+	width: 70px;
+}
+
 input[type=radio] {
 	cursor: pointer;
 }
