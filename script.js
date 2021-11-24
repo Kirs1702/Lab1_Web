@@ -25,7 +25,6 @@ function getR(){
     if (a.length === 0) return null;
     let r = a[0].value;
     if (rValues.indexOf(r) === -1) return null;
-    alert(r);
     return r;
 }
 
